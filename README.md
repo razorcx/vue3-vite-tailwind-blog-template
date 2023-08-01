@@ -32,7 +32,7 @@ npm install -g pnpm
 Let's begin by cloning the project from GitHub. You can do this by running the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/razorcx/vue3-vite-blog-template.git
+git clone https://github.com/razorcx/vue3-vite-tailwind-blog-template.git
 ```
 
 Alternatively, you can download the project as a zip archive and extract it to a local directory.
@@ -42,7 +42,7 @@ Alternatively, you can download the project as a zip archive and extract it to a
 Change your working directory to the root of the project that you just cloned:
 
 ```bash
-cd vue3-vite-blog-template
+cd vue3-vite-tailwind-blog-template
 ```
 
 ## Step 3: Install Project Dependencies
