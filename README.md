@@ -63,7 +63,7 @@ pnpm dev
 
 The development server will now compile the project and automatically open it in your default web browser. You will see your Vue 3 and Vite application up and running.
 
-## Step 5. Customize the Project
+## Step 5: Customize the Project
 
    Now that you have the template running, you can start customizing it to fit your specific needs:
 
