@@ -7,7 +7,7 @@
             <div class=" max-w-xl">
                 <p class=" text-sky-500 uppercase tracking-wider">knowleddge base</p>
 
-                <h2 class=" text-3xl xl:text-4xl font-bold mt-4 text-gray-800 capitalize">All Resurece You Need to grow
+                <h2 class=" text-3xl xl:text-4xl font-bold mt-4 text-gray-800 capitalize">All Resources You Need to grow
                 </h2>
 
                 <p class=" text-gray-500 mt-4 text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
